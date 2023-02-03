@@ -1,1 +1,1 @@
-A simple Bash Script to install the amazing cross-platform multi-protocol VPN software. More details on the official repo https://github.com/SoftEtherVPN/SoftEtherVPN_Stable. Shout out to Daiyuu Nobori, the founder of the project.
+This is an install script for the article "Exegol and Windows - emulating a bridged VM", which can be found here https://www.cybaverse.co.uk/resources/exegol-and-windows-emulating-a-bridged-vm.
